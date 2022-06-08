@@ -4,7 +4,8 @@
 Desenvolvedor júnior, participando do Bootcamp da Generation em processo de aprendizado nas fermentas Java, HTML, CSS, Javascript, MySQL.
 
 ## 💫 Liitle Bit More About Me
-<p>📫 Como chegar até mim?ryansanpaixao2gmail.com</p>
+<p>📫 Como chegar até mim?
+  ryansanpaixao2gmail.com</p>
 
 ## 💻 Skills
 <p>
@@ -38,7 +39,7 @@ Desenvolvedor júnior, participando do Bootcamp da Generation em processo de apr
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=leaoquara&show_icons=true"><p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mleaoquara&layout=compact"><p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaoquara&layout=compact"><p>
 
 <p><img src="https://metrics.lecoq.io/leaoquara"><p>
 
