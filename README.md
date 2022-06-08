@@ -1,16 +1,27 @@
-### Hi there 👋
+Olá 👋, meu nome é Ryan dos Santos da Paixão
+my banner
 
-<!--
-**leaoquara/leaoquara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudando para me tornar desenvolvedor júnior, participando do Bootcamp da Generation em processo de aprendizado nas fermentas Java, HTML, CSS, Javascript, MySQL.
 
-Here are some ideas to get you started:
+💫 Liitle Bit More About Me
+📫 Como chegar até mim?ryansanpaixaos2@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills
+       
+
+👥 Connect With Me
+ 
+
+🌟 Github Badges
+🏆 GitHub Trophies
+
+
+📊 Github Status
+
+
+
+
+
+
+
+
