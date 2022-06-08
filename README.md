@@ -1,5 +1,5 @@
 # Olá 👋, meu nome é Ryan dos Santos da Paixão
-<img width="100%" src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" alt="my banner">
+<img width="100%" src="https://gfycat.com/hilariousblushinggnu" alt="my banner">
 
 Desenvolvedor júnior, participando do Bootcamp da Generation em processo de aprendizado nas fermentas Java, HTML, CSS, Javascript, MySQL.
 
