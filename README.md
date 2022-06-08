@@ -21,7 +21,7 @@ Desenvolvedor júnior, participando do Bootcamp da Generation em processo de apr
 ## 👥 Connect With Me
 <p>
 <a href="https://github-profile-page-creator.netlify.app/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.instagram.com/https://www.instagram.com/marcelooo616/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.instagram.com/https://www.instagram.com/leaoquara/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 ## 🌟 Github Badges
@@ -30,22 +30,22 @@ Desenvolvedor júnior, participando do Bootcamp da Generation em processo de apr
 
 ## 🏆 GitHub Trophies
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=marcelooo616">
+<p><img src="https://github-profile-trophy.vercel.app/?username=leaoquara">
 </p>
 
 ## 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=marcelooo616"><p>
+<p><img src="https://activity-graph.herokuapp.com/graph?username=leaoquara"><p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=marcelooo616&show_icons=true"><p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=leaoquara&show_icons=true"><p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelooo616&layout=compact"><p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mleaoquara&layout=compact"><p>
 
-<p><img src="https://metrics.lecoq.io/marcelooo616"><p>
+<p><img src="https://metrics.lecoq.io/leaoquara"><p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelooo616"><p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=leaoquara"><p>
 
-<p><img src="https://visitcount.itsvg.in/api?id=marcelooo616&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+<p><img src="https://visitcount.itsvg.in/api?id=leaoquara&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
 
 
 
