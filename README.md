@@ -1,5 +1,6 @@
 # Olá 👋, meu nome é Ryan dos Santos da Paixão
-<img width="100%" src="https://gfycat.com/hilariousblushinggnu" alt="my banner">
+<img width="100%" src="![image](https://user-images.githubusercontent.com/106316821/172669876-ccd8ab91-80d2-4ace-9ca6-9dc5c3b11ae5.png)
+" alt="my banner">
 
 Desenvolvedor júnior, participando do Bootcamp da Generation em processo de aprendizado nas fermentas Java, HTML, CSS, Javascript, MySQL.
 
