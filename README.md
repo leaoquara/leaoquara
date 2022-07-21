@@ -22,7 +22,17 @@ Desenvolvedor júnior, participando do Bootcamp da Generation em processo de apr
 <p><img src="https://github-profile-trophy.vercel.app/?username=leaoquara">
 </p>
 
-![Snake animation](https://github.com/leaoquara/leaoquara/blob/output/github-contribution-grid-snake.svg)
+<p>
+   
+  
+ 
+  ![Snake animation](https://github.com/leaoquara/leaoquara/blob/output/github-contribution-grid-snake.svg)
+  
+  
+  
+  
+  
+</p>
 
 
 
