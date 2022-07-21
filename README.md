@@ -26,20 +26,6 @@ Desenvolvedor júnior, participando do Bootcamp da Generation em processo de apr
 
 <hr>
 
-<p>
-   
-  
- 
-  ![Snake animation](https://github.com/leaoquara/leaoquara/blob/output/github-contribution-grid-snake.svg)
-  
-  
-  
-  
-  
-</p>
-
-<hr>
-
 <p><img src="https://metrics.lecoq.io/leaoquara"><p>
 
 <p><img src="https://visitcount.itsvg.in/api?id=leaoquara&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
