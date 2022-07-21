@@ -34,7 +34,17 @@ Desenvolvedor júnior, participando do Bootcamp da Generation em processo de apr
   
 </p>
 
-<p><img src="https://visitcount.itsvg.in/api?id=marcelooo616&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+<p><img src="https://activity-graph.herokuapp.com/graph?username=leaoquara"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=leaoquara&show_icons=true"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leaoquara&layout=compact"><p>
+
+<p><img src="https://metrics.lecoq.io/leaoquara"><p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=leaoquara"><p>
+
+<p><img src="https://visitcount.itsvg.in/api?id=leaoquara&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
 
 
 
