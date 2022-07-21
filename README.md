@@ -36,8 +36,6 @@ Desenvolvedor júnior, participando do Bootcamp da Generation em processo de apr
 
 <p><img src="https://metrics.lecoq.io/leaoquara"><p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=leaoquara"><p>
-
 <p><img src="https://visitcount.itsvg.in/api?id=leaoquara&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
 
 
