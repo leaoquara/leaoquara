@@ -34,7 +34,7 @@ Desenvolvedor júnior, participando do Bootcamp da Generation em processo de apr
   
 </p>
 
-
+<p><img src="https://visitcount.itsvg.in/api?id=marcelooo616&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
 
 
 
